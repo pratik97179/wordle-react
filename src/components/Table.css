@@ -1,0 +1,20 @@
+.app__table {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.app__table-title {
+    font-weight: 800;
+    font-size: 3rem;
+    color: rgb(255, 0, 111);
+    margin-top: 3rem;
+}
+
+.app__table-container-text {
+    margin-top: 2rem;
+    padding: 2vh 10vh;
+    border-radius: 1rem;
+    background-color: rgba(255, 156, 156, 0.4);
+    cursor: pointer;
+}

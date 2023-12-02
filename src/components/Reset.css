@@ -1,0 +1,19 @@
+.app__table-reset {
+    height: 100%;
+    width: 100%;
+    margin-top: 5vh;
+    border: 2px #3d3d3d solid;
+    padding: 1vh;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.app__table-reset:hover {
+    background-color: rgb(134, 255, 255);
+}
+
+.app__table-reset,
+img {
+    width: 4vh;
+    height: 4vh;
+}
